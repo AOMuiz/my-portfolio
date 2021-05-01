@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Muiz Abdulwasiu | Developer ', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my website', // e.g: Welcome to my website
+  description: 'AOMUIZ Portfolio website', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -24,7 +24,8 @@ export const aboutData = {
     ' I have experience with cloud technology, specifically Microsft Azure, as well as a modest range of languages and frameworks.',
   paragraphThree:
     'I am currently looking to contribute my skills to a team where I can prove my abilities while growing my capabilities.',
-  resume: '', // if no resume, the button will not show up
+  resume:
+    'https://github.com/AOMuiz/my-portfolio/blob/main/src/components/About/LinkedIn-Generated-Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
