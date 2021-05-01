@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     'I am currently looking to contribute my skills to a team where I can prove my abilities while growing my capabilities.',
   resume:
-    'https://github.com/AOMuiz/my-portfolio/blob/main/src/components/About/LinkedIn-Generated-Resume.pdf', // if no resume, the button will not show up
+    'https://github.com/AOMuiz/my-portfolio/raw/main/src/components/About/LinkedIn-Generated-Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
